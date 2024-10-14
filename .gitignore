@@ -25,6 +25,12 @@
 
 # Visual Studio cache directory
 .vs/
+.vscode/
+.idea/
+
+# LFS
+/Assets/_lfs/
+/Assets/_lfs.meta
 
 # Gradle cache directory
 .gradle/
